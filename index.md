@@ -3,7 +3,7 @@ layout: home
 title: Adewale Adeniyi
 description: Adewale Adeniyi CEAMLS SAIRI Summer 2025 Research Website
 
-motto: " Slowly but surely."
+motto: "Slowly but surely."
 
 quick_facts:
   - "🎓 Sophmore, Nursing @ Morgan State University"
