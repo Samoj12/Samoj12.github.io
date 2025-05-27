@@ -1,16 +1,16 @@
 ---
 layout: home
-title: Ta'quavian Johnson
-description: CEAMLS SAIRI Summer 2025 Research Website
+title: Adewale Adeniyi
+description: Adewale Adeniyi CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: " Slowly but surely."
 
 quick_facts:
-  - "🎓 Junior, Electrical Engineering @ Example University"
-  - "🔬 Research: AI-Powered Wearables + Signal Processing"
-  - "📍 Based in Atlanta, GA"
-  - "🚀 Passionate about building smart systems for real-world impact"
+  - "🎓 Sophmore, Nursing @ Morgan State University"
+  - "🔬 Research: Application of artificial intelligence(AI) to predict"
+  - "📍 Based in Baltimore, MD"
+  - "🚀 Passionate about building a better world"
 
-linkedin: https://www.linkedin.com/in/taquavian-johnson/
+linkedin: https://www.linkedin.com/in/adewale-adeniyi-9811682b9
 image: /assets/images/me.jpg
 ---
