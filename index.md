@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building a better world"
 
 linkedin: https://www.linkedin.com/in/adewale-adeniyi-9811682b9
-image: /assets/images/me.jpg
+image: /assets/images/WhatsApp Image 2025-05-28 at 11.19.03_1b763db2.jpg
 ---
