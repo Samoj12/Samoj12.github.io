@@ -29,13 +29,10 @@ about:
   gallery:
     - image: /assets/images/WhatsApp Image 2025-05-28 at 12.38.01_f096b8a0.jpg
       caption: Holding My Guitar On A Sunday
-    - image: /assets/images
-/WhatsApp Image 2025-05-28 at 12.38.00_36a6c888.jpg
+    - image: /assets/images/WhatsApp Image 2025-05-28 at 12.38.00_36a6c888.jpg
       caption: Taking A Picture
-    - image: /assets/images
-/WhatsApp Image 2025-05-28 at 12.38.01_61d443ba.jpg
+    - image: /assets/images/WhatsApp Image 2025-05-28 at 12.38.01_61d443ba.jpg
       caption: Me Trying To Run A Gospel Skit
-    - image: /assets/images
-/WhatsApp Image 2025-05-28 at 12.38.00_547cb00a.jpg
+    - image: /assets/images/WhatsApp Image 2025-05-28 at 12.38.00_547cb00a.jpg
       caption: A Screen Shot Of My Recent Short Cinematic Film
 ---
