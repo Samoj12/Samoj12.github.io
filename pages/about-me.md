@@ -27,7 +27,7 @@ about:
       description: I love spending time in knowing Jesus Christ, learning so much about his legacy and what he came to do on earth.
 
   gallery:
-    - image: assets/images/WhatsApp Image 2025-05-28 at 12.38.01_f096b8a0.jpg
+    - image: /assets/images/WhatsApp Image 2025-05-28 at 12.38.01_f096b8a0.jpg
       caption: Holding My Guitar On A Sunday
     - image: /assets/images
 /WhatsApp Image 2025-05-28 at 12.38.00_36a6c888.jpg
