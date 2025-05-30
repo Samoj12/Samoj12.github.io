@@ -4,23 +4,21 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Jordan Bailey
-  title: PhD Student, Electrical Engineering
+  name: Adeyemi Tijesumini
+  title: PhD Student, Computer and Electrical System Engineering
   image: /assets/images/graduate-student-mentor.jpg
-  website: https://gradmentor.example.com
+  website: 
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
-    
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
+    Adeyemi Tijesumini is a PhD student in the department of Computer and Electrical Engineering, majoring in Computer and Electrical System Engineering focusing on the application of Artificial Intelligence (AI) Techniques to predict genetic biomarkers of brain tumors from transcriptomic Dataset.
+    I just met him for a briefing on what our research programme would be and things to prepare for and expect, I look forward to working with him.
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  title: Professor Emeritus, Tuskegee University
-  image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  name: Dr. Roshan Paudel 
+  title: Dr. Roshan Paudel, Computer science
+  image: /assets/images/1619839274667.jpg
+  website: https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/
   bio: |
-    Dr. Elijah Freeman is a pioneering figure in the field of neural engineering and robotics. With over four decades of experience in academia and research, his work has focused on developing accessible brain-computer interface systems and exploring how robotics can enhance human capability.
-    
-    A passionate advocate for diversity in STEM, Dr. Freeman has mentored dozens of underrepresented students and continues to inspire the next generation of researchers and technologists through his leadership and legacy.
+    Dr. Roshan Paudel is a PhD holder in Philosophy, Bioinformatics and computational biology in the department of computer science at Morgan state university, also holding master of sciece in biofaormatics, zoology/ animal biology. He is currently a professor of practice at Morgan State University, he has also been a computational research assistant, a faculty research and a biology instructor.
+    He is the head of the facully that the mentor (Adeyemi Tijesumini) is under focusing on the application of artifical intelligence (AI) to predict genetic biomarkeres of brain tumor from transcriptomic data set. From my research and also all these accolades and degrees he has gotten, I know i am in capable hands, I'm thrilled to start working under the mentor assigned to me.
 
 ---
