@@ -34,6 +34,6 @@ grad_mentor:
   name: Adeyemi Tijesumini
 
 faculty_mentor:
-  name: Dr. Roshan Paudel
+  name: Dr.Roshan Paudel
   https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/
 ---
