@@ -3,34 +3,37 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+subtitle: CEAMLS AI SUMMER 2025
+project_title: "Application of Artifical Intellligence (AI) to predict genetic biomaarkers of brain tumor from Transcriptomic data set."
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
+  There are programmes out there that do a good job in anlyzing healthcare issues, but unfortunately cancer remains and seems like an unpredictable healthcare issue, with little to no evidence or patterns on how to prevent or track cancerous brain tumor cells before they full develop or even start becoming cancerous cells.
 
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
+  This project seeks to describe the AI/ML and/or tools to be used and their appications in the project, this project would require the use of different machine learning algorithms such as Random forest, Naive bates , support  vector machine (SVM), K - nearest neighbors (KNN), LASSO, and Ridge..
 
 approach: |
-  The project follows a four-phase pipeline:
+  The project follows a weekly research schedule pipeline:
 
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
-
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
-
+  - Mandatory Virtual Bootcamp/Orientation
+  - Practice python, pandas, jupyter notebook,numpy, and matplotlib
+  - Basic understanding of Genomics, statistical analysis, graphs and plots.
+  - Introduction to machine learning - supervised and unsupervised
+  - Mandatory Mid-Summer Presentations (6/27)
+  - Deep Learning FUndamentals and Neural Network
+  - Project work - Apply the concepts and techniques in RNA-seg data sets
+  - Project work - Develop and evaluate the performance of the ML model
+  - Improvement/Demonstrations/model tuning/ preparation
+  - Mandatory End of Summer Research Symposium (7/31)
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+  By the end of the program, the project will result in a working prototype of an application that should be able to predict genetic biomarkers of brain tumor from transcriptomic data set, providing more understanding on how to deal tumors on a larger scale
+  Additionally I will gain experience in data gathering, machine learning, and deep learning techniques for transcriptomic data sets, such as finding anf collecting data from different sources and concatenating them.
 
-final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
+final_report_url: 
 
 grad_mentor:
-  name: Jamal Carter
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  name: Adeyemi Tijesumini
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  name: Dr. Roshan Paudel
+  https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/
 ---
