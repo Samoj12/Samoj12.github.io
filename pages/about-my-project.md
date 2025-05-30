@@ -35,5 +35,5 @@ grad_mentor:
 
 faculty_mentor:
   name: Dr.Roshan Paudel
-  https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/
+  Linkdin: https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/
 ---
