@@ -6,8 +6,8 @@ permalink: /about-my-mentor.html
 graduate_mentor:
   name: Adeyemi Tijesumini
   title: PhD Student, Computer and Electrical System Engineering
-  image: /assets/images/graduate-student-mentor.jpg
-  website: 
+  image: /assets/images/Image20250530163401.png
+  website: https://www.linkedin.com/in/adeyemi-tijesunimi/
   bio: |
     Adeyemi Tijesumini is a PhD student in the department of Computer and Electrical Engineering, majoring in Computer and Electrical System Engineering focusing on the application of Artificial Intelligence (AI) Techniques to predict genetic biomarkers of brain tumors from transcriptomic Dataset.
     I just met him for a briefing on what our research programme would be and things to prepare for and expect, I look forward to working with him.
