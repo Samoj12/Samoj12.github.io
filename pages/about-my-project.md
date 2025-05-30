@@ -32,8 +32,9 @@ final_report_url:
 
 grad_mentor:
   name: Adeyemi Tijesumini
+  Linkedin: https://www.linkedin.com/in/adeyemi-tijesunimi/
 
 faculty_mentor:
   name: Dr.Roshan Paudel
-  Linkdin: https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/
+  Linkedin: https://www.linkedin.com/in/roshan-paudel-ph-d-b3438488/
 ---
